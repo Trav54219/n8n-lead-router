@@ -1,0 +1,8 @@
+[
+ {"email":"dana.ruiz@northpeak.example","first_name":"Dana","title":"VP Revenue Operations","company":"NorthPeak","employees":120,"description":"B2B SaaS, outbound sales team, pipeline reporting"},
+ {"email":"sam@gmail.com","first_name":"Sam","title":"Founder","company":"Sam Co","employees":3,"description":"consulting"},
+ {"email":"info@brightfield.example","first_name":"","title":"","company":"Brightfield","employees":80,"description":"saas"},
+ {"email":"lee.park@harbor.example","first_name":"Lee","title":"Account Executive","company":"Harbor","employees":900,"description":"logistics software"},
+ {"email":"not-an-email","first_name":"X","title":"CEO","company":"Y","employees":50,"description":""},
+ {"email":"ana.cole@loop.example","first_name":"Ana","title":"Head of Growth","company":"Loop","employees":45,"description":"outbound for a saas product"}
+]
